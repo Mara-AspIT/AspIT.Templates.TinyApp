@@ -1,8 +1,8 @@
 ﻿/**************************************************************************************************
 *  Author: Mads Mikkel Rasmussen (mara@aspit.dk), github: https://github.com/Mara-AspIT/          *
 *  Solution: .NET version: 4.6.2, C# version: 7.0                                                 *
-*  Repository: https://github.com/Mara-AspIT/AspIT.Templates.TinyApp                              *
 *  Visual Studio version: Visual Studio Enterprise 2017, version 15.2.                            *
+*  Repository: https://github.com/Mara-AspIT/AspIT.Templates.TinyApp                              *
 **************************************************************************************************/
 
 using System;
