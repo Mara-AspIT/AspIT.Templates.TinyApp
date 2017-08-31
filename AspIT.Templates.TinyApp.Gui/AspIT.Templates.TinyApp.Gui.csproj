@@ -93,5 +93,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AspIT.Templates.TinyApp.DataAccess\AspIT.Templates.TinyApp.DataAccess.csproj">
+      <Project>{5a035de3-4eb6-4b3a-817d-e9ed9d668ff7}</Project>
+      <Name>AspIT.Templates.TinyApp.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AspIT.Templates.TinyApp.Entities\AspIT.Templates.TinyApp.Entities.csproj">
+      <Project>{91125a9c-aaef-4f00-90f9-802172d98be6}</Project>
+      <Name>AspIT.Templates.TinyApp.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
